@@ -1,0 +1,5 @@
+# Si pip no encuentra una versión estable de agent-framework, instala con: pip install agent-framework --pre
+agent-framework
+azure-identity
+python-dotenv
+ipykernel
