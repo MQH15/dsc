@@ -1,0 +1,29 @@
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Entornos y dependencias locales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos locales e índices generados
+data/
+chroma_proyecto/
+
+# Archivos locales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
