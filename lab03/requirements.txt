@@ -1,9 +1,0 @@
-agent-framework-azure-ai==1.0.0rc6
-agent-framework-foundry==1.15.0
-agent-framework-orchestrations==1.4.0
-chromadb==1.5.9
-# Agregados en el Laboratorio 3 (versiones sin fijar: validar con pip install)
-agent-framework-openai
-azure-identity
-python-dotenv
-ipykernel
