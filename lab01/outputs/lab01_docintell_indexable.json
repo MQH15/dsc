@@ -9,7 +9,7 @@
     "pagina": 1,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -22,7 +22,7 @@
     "pagina": 1,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -35,7 +35,7 @@
     "pagina": 1,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -48,7 +48,7 @@
     "pagina": 1,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -61,7 +61,7 @@
     "pagina": 2,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -74,7 +74,7 @@
     "pagina": 2,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -87,7 +87,7 @@
     "pagina": 2,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -100,7 +100,7 @@
     "pagina": 2,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -113,7 +113,7 @@
     "pagina": 2,
     "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
     "modelo": "prebuilt-layout",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true
   },
   {
@@ -126,7 +126,7 @@
     "pagina": 1,
     "fuente": "factura_sintetica_plasticos_andes.pdf",
     "modelo": "prebuilt-invoice",
-    "fecha_procesamiento": "2026-11-05",
+    "fecha_procesamiento": "2026-11-19",
     "sintetico": true,
     "campos_extraidos": {
       "VendorName": {

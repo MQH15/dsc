@@ -1,0 +1,100 @@
+[
+  {
+    "documento_id": "BH-GUIA-HIP-001",
+    "titulo": "Guía sintética del proceso de solicitud, tasación y desembolso del crédito hipotecario",
+    "categoria": "proceso",
+    "tipo_documento": "guia_proceso",
+    "fuente": "guia_proceso_hipotecario_sintetica",
+    "producto": "credito_hipotecario",
+    "version": "1.0",
+    "secciones": [
+      {
+        "seccion": "Visión general",
+        "texto": "El proceso del crédito hipotecario para vivienda de Banco Horizonte (documento ficticio) tiene seis etapas: orientación y preparación, presentación de la solicitud, evaluación crediticia, tasación y revisión legal del inmueble, aprobación y firma, e inscripción de la garantía con desembolso.\nLos plazos mencionados en esta guía son supuestos didácticos para ejercicios académicos y no constituyen compromisos del banco."
+      },
+      {
+        "seccion": "Etapa 1: Orientación y preparación",
+        "texto": "Antes de presentar la solicitud, el cliente reúne sus datos básicos: precio de la vivienda, ahorro disponible, ingreso neto mensual del hogar y otras cuotas financieras vigentes.\nComo referencia, conviene verificar que la cuota inicial sea al menos el 20% del valor de compraventa y que las cuotas financieras totales no superen el 40% del ingreso neto familiar verificable.\nLa orientación del asesor virtual es referencial y no vinculante: no garantiza la aprobación del crédito."
+      },
+      {
+        "seccion": "Etapa 2: Presentación de la solicitud",
+        "texto": "El solicitante, y el cotitular si lo hubiera, presenta la solicitud junto con los documentos requeridos. El banco abre un expediente y revisa que esté completo.\nSi faltan documentos, el banco comunica la lista de pendientes. Como supuesto didáctico, el cliente dispone de 10 días hábiles para completar el expediente antes de que sea archivado."
+      },
+      {
+        "seccion": "Etapa 3: Evaluación crediticia",
+        "texto": "El banco revisa la identidad, los ingresos, el historial de pago, el endeudamiento total y el origen de la cuota inicial.\nComo supuesto didáctico, esta etapa toma 5 días hábiles desde que el expediente está completo.\nUn resultado crediticio favorable no equivale a la aprobación final: el inmueble todavía debe superar la tasación y la revisión legal."
+      },
+      {
+        "seccion": "Etapa 4: Tasación y revisión legal del inmueble",
+        "texto": "Un tasador designado o aceptado por el banco determina el valor comercial del inmueble. En paralelo, el área legal revisa la partida registral, la titularidad del vendedor y la existencia de cargas, gravámenes o embargos.\nSi el inmueble está en construcción, también se revisan los permisos y la documentación técnica.\nComo supuesto didáctico, tasación y revisión legal toman entre 7 y 10 días hábiles. El inmueble puede ser observado o rechazado por problemas registrales, técnicos o de tasación."
+      },
+      {
+        "seccion": "Etapa 5: Aprobación y firma",
+        "texto": "Con la aprobación crediticia y la aprobación legal del inmueble, el banco emite la aprobación final.\nEl cliente firma la minuta de compraventa y el contrato de crédito ante notario. Los gastos notariales y registrales corren por cuenta del cliente, salvo que el banco indique lo contrario."
+      },
+      {
+        "seccion": "Etapa 6: Inscripción de la garantía y desembolso",
+        "texto": "La hipoteca se inscribe en los Registros Públicos. Una vez inscrita la garantía, el banco desembolsa el monto aprobado directamente al vendedor.\nComo supuesto didáctico, el desembolso se realiza dentro de los 3 días hábiles posteriores a la inscripción."
+      },
+      {
+        "seccion": "Seguros asociados",
+        "texto": "El crédito suele requerir un seguro de desgravamen y un seguro del inmueble contra daños.\nEsta guía no detalla los costos de los seguros; el banco los informa en la oferta final."
+      },
+      {
+        "seccion": "Situaciones frecuentes",
+        "texto": "- Inmueble observado: el banco solicita subsanar las observaciones registrales o técnicas antes de continuar.\n- Ahorro insuficiente para la cuota inicial y los gastos de formalización: el cliente puede postergar la solicitud hasta reunir el monto necesario.\n- Ingresos del cónyuge o conviviente: pueden sumarse si participa formalmente en la solicitud.\n- Cambios en los datos del cliente durante el proceso (empleo, ingresos, estado civil): deben comunicarse al banco de inmediato."
+      }
+    ]
+  },
+  {
+    "documento_id": "BH-FAQ-HIP-001",
+    "titulo": "Preguntas frecuentes y glosario del crédito hipotecario",
+    "categoria": "preguntas_frecuentes",
+    "tipo_documento": "faq",
+    "fuente": "faq_hipotecario_sintetico",
+    "producto": "credito_hipotecario",
+    "version": "1.0",
+    "secciones": [
+      {
+        "seccion": "¿Qué diferencia hay entre aprobación crediticia y aprobación legal?",
+        "texto": "La aprobación crediticia evalúa al solicitante: ingresos, historial de pago y capacidad de pago. La aprobación legal evalúa el inmueble: titularidad, cargas, gravámenes y documentación.\nSe necesitan ambas para continuar con la firma y el desembolso."
+      },
+      {
+        "seccion": "¿Qué ocurre si la tasación sale menor que el precio de compraventa?",
+        "texto": "El monto financiable se calcula a partir del menor valor entre el precio de compraventa y el valor de tasación aceptado por el banco.\nSi la tasación es menor que el precio pactado con el vendedor, la diferencia debe cubrirse con recursos propios del cliente, además de la cuota inicial."
+      },
+      {
+        "seccion": "¿Puedo sumar los ingresos de mi pareja?",
+        "texto": "Sí, se pueden considerar los ingresos del cónyuge o conviviente cuando participa formalmente en la solicitud, como cotitular.\nEl ingreso neto familiar mínimo referencial del producto es de S/ 3,500 mensuales."
+      },
+      {
+        "seccion": "¿Puedo usar dinero prestado o regalado para la cuota inicial?",
+        "texto": "Debe sustentarse el origen de la cuota inicial con documentos, por ejemplo estados de cuenta de ahorro, la venta de un bien o una donación documentada.\nEl banco puede solicitar documentación adicional para validar ese origen."
+      },
+      {
+        "seccion": "¿Qué son la HR y el PU?",
+        "texto": "Son documentos municipales vinculados al autovalúo del inmueble: la Hoja Resumen (HR) y el Predio Urbano (PU).\nEl banco puede solicitarlos, según corresponda, como parte de la documentación del inmueble."
+      },
+      {
+        "seccion": "¿Qué es la minuta de compraventa?",
+        "texto": "Es el documento en el que comprador y vendedor acuerdan las condiciones de la compra del inmueble. Luego se formaliza ante notario mediante la escritura pública."
+      },
+      {
+        "seccion": "¿Puedo solicitar el crédito si soy trabajador independiente?",
+        "texto": "Sí. Para independientes se pide actividad demostrable de al menos 24 meses y sustento de ingresos de los últimos 12 meses.\nPara trabajadores dependientes, la antigüedad laboral mínima referencial es de 12 meses."
+      },
+      {
+        "seccion": "¿Puedo comprar una vivienda en construcción?",
+        "texto": "Sí, según la evaluación legal y técnica. En ese caso se revisan además los permisos y la documentación técnica del proyecto."
+      },
+      {
+        "seccion": "¿El banco garantiza que mi crédito será aprobado?",
+        "texto": "No. La aprobación depende de la evaluación crediticia, de la revisión legal y técnica del inmueble y de la información oficial del banco.\nTodos los requisitos y porcentajes de este material son ficticios, para ejercicios académicos."
+      },
+      {
+        "seccion": "Glosario básico",
+        "texto": "- Cuota inicial: parte del precio que el cliente aporta con recursos propios.\n- Tasación: valoración comercial del inmueble realizada por un tasador.\n- Gravamen: carga registrada sobre un inmueble, como una hipoteca o un embargo.\n- Seguro de desgravamen: seguro que cubre la deuda en caso de fallecimiento o invalidez del titular.\n- Desembolso: entrega del dinero del crédito, en este caso al vendedor.\n- Cotitular: persona que solicita el crédito junto con el titular y cuyos ingresos pueden sumarse."
+      }
+    ]
+  }
+]
